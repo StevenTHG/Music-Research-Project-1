@@ -1,0 +1,461 @@
+Genre,Genre ID,Artist
+Pop,g.115,Michael Jackson
+Pop,g.115,Madonna
+Pop,g.115,Bruno Mars
+Pop,g.115,Elton John
+Pop,g.115,Taylor Swift
+Pop,g.115,Rihanna
+Pop,g.115,Justin Bieber
+Pop,g.115,Adele
+Pop,g.115,Maroon 5
+Pop,g.115,Lady Gaga
+Pop,g.115,Ed Sheeran
+Pop,g.115,Harry Styles
+Pop,g.115,Britney Spears
+Pop,g.115,OneRepublic
+Pop,g.115,Katy Perry
+Pop,g.115,benny blanco
+Pop,g.115,Lizzo
+Pop,g.115,Flo Rida
+Pop,g.115,Calvin Harris
+Pop,g.115,Sam Smith
+Rock,g.5,Queen
+Rock,g.5,Fleetwood Mac
+Rock,g.5,The Beatles
+Rock,g.5,Kate Bush
+Rock,g.5,Led Zeppelin
+Rock,g.5,Tom Petty
+Rock,g.5,Aerosmith
+Rock,g.5,The Rolling Stones
+Rock,g.5,Eagles
+Rock,g.5,AC/DC
+Rock,g.5,Journey
+Rock,g.5,Ed Sheeran
+Rock,g.5,Pink Floyd
+Rock,g.5,Red Hot Chili Peppers
+Rock,g.5,Chicago
+Rock,g.5,Kid Rock
+Rock,g.5,Bruce Springsteen
+Rock,g.5,Guns N' Roses
+Rock,g.5,Elton John
+Rock,g.5,Van Halen
+Alternative,g.33,Imagine Dragons
+Alternative,g.33,Nirvana
+Alternative,g.33,Coldplay
+Alternative,g.33,twenty one pilots
+Alternative,g.33,U2
+Alternative,g.33,Billie Eilish
+Alternative,g.33,Foo Fighters
+Alternative,g.33,Green Day
+Alternative,g.33,Panic! at the Disco
+Alternative,g.33,Talking Heads
+Alternative,g.33,Weezer
+Alternative,g.33,Pearl Jam
+Alternative,g.33,Halsey
+Alternative,g.33,Sia
+Alternative,g.33,Fall Out Boy
+Alternative,g.33,Gorillaz
+Alternative,g.33,Mumford & Sons
+Alternative,g.33,Glass Animals
+Alternative,g.33,R.E.M.
+Alternative,g.33,The Cure
+Hip-Hop/Rap,g.146,Eminem
+Hip-Hop/Rap,g.146,2Pac
+Hip-Hop/Rap,g.146,Megan Thee Stallion
+Hip-Hop/Rap,g.146,Snoop Dogg
+Hip-Hop/Rap,g.146,Lil Wayne
+Hip-Hop/Rap,g.146,Drake
+Hip-Hop/Rap,g.146,French Montana
+Hip-Hop/Rap,g.146,The Notorious B.I.G.
+Hip-Hop/Rap,g.146,Kendrick Lamar
+Hip-Hop/Rap,g.146,Juice WRLD
+Hip-Hop/Rap,g.146,Roddy Ricch
+Hip-Hop/Rap,g.146,YG
+Hip-Hop/Rap,g.146,50 Cent
+Hip-Hop/Rap,g.146,Kodak Black
+Hip-Hop/Rap,g.146,Kanye West
+Hip-Hop/Rap,g.146,Post Malone
+Hip-Hop/Rap,g.146,DJ Khaled
+Hip-Hop/Rap,g.146,JAY-Z
+Hip-Hop/Rap,g.146,Dr. Dre
+Hip-Hop/Rap,g.146,NAV
+Christmas,g.120,Mariah Carey
+Christmas,g.120,Pentatonix
+Christmas,g.120,Michael Bublé
+Christmas,g.120,Frank Sinatra
+Christmas,g.120,Elvis Presley
+Christmas,g.120,Dean Martin
+Christmas,g.120,Andy Williams
+Christmas,g.120,Bing Crosby
+Christmas,g.120,Kelly Clarkson
+Christmas,g.120,Wham!
+Christmas,g.120,Nat King Cole
+Christmas,g.120,The Jackson 5
+Christmas,g.120,Jose Feliciano
+Christmas,g.120,Trans-Siberian Orchestra
+Christmas,g.120,Perry Como
+Christmas,g.120,The Ronettes
+Christmas,g.120,Christmas Hits
+Christmas,g.120,Ariana Grande
+Christmas,g.120,Vince Guaraldi
+Christmas,g.120,Brenda Lee
+R&B/Soul,g.194,The Weeknd
+R&B/Soul,g.194,Stevie Wonder
+R&B/Soul,g.194,Prince
+R&B/Soul,g.194,Beyoncé
+R&B/Soul,g.194,Marvin Gaye
+R&B/Soul,g.194,Usher
+R&B/Soul,g.194,"Earth, Wind & Fire"
+R&B/Soul,g.194,The Isley Brothers
+R&B/Soul,g.194,Chris Brown
+R&B/Soul,g.194,Mary J. Blige
+R&B/Soul,g.194,Mariah Carey
+R&B/Soul,g.194,Doja Cat
+R&B/Soul,g.194,R. Kelly
+R&B/Soul,g.194,Alicia Keys
+R&B/Soul,g.194,Trust'N
+R&B/Soul,g.194,Rihanna
+R&B/Soul,g.194,The Commodores
+R&B/Soul,g.194,Janet Jackson
+R&B/Soul,g.194,The Temptations
+R&B/Soul,g.194,Khalid
+Country,g.407,Chris Stapleton
+Country,g.407,Eric Church
+Country,g.407,Jason Aldean
+Country,g.407,Tim McGraw
+Country,g.407,Zac Brown Band
+Country,g.407,Alan Jackson
+Country,g.407,George Strait
+Country,g.407,Blake Shelton
+Country,g.407,Luke Bryan
+Country,g.407,Morgan Wallen
+Country,g.407,Luke Combs
+Country,g.407,Kenny Chesney
+Country,g.407,Toby Keith
+Country,g.407,Dierks Bentley
+Country,g.407,Miranda Lambert
+Country,g.407,Johnny Cash
+Country,g.407,Sam Hunt
+Country,g.407,Florida Georgia Line
+Country,g.407,Brooks & Dunn
+Country,g.407,Thomas Rhett
+Jazz,g.299,Miles Davis
+Jazz,g.299,George Benson
+Jazz,g.299,"Grover Washington, Jr."
+Jazz,g.299,Norah Jones
+Jazz,g.299,Louis Armstrong
+Jazz,g.299,Nina Simone
+Jazz,g.299,John Coltrane
+Jazz,g.299,Quincy Jones
+Jazz,g.299,Nat King Cole
+Jazz,g.299,Herbie Hancock
+Jazz,g.299,Boney James
+Jazz,g.299,Ella Fitzgerald
+Jazz,g.299,Kenny G
+Jazz,g.299,Soul II Soul
+Jazz,g.299,Duke Ellington
+Jazz,g.299,Ray Charles
+Jazz,g.299,George Duke
+Jazz,g.299,Gregory Porter
+Jazz,g.299,Billie Holiday
+Jazz,g.299,Al Jarreau
+Dance/Electronica,g.71,Pistonp
+Dance/Electronica,g.71,Arasounds
+Dance/Electronica,g.71,The Chainsmokers
+Dance/Electronica,g.71,DJ Snake
+Dance/Electronica,g.71,Marshmello
+Dance/Electronica,g.71,Swedish House Mafia
+Dance/Electronica,g.71,Ava Max
+Dance/Electronica,g.71,Klod Rights
+Dance/Electronica,g.71,Tiësto
+Dance/Electronica,g.71,Major Lazer
+Dance/Electronica,g.71,Clean Bandit
+Dance/Electronica,g.71,Harbant
+Dance/Electronica,g.71,Dynamic Waves
+Dance/Electronica,g.71,Skrillex
+Dance/Electronica,g.71,Daft Punk
+Dance/Electronica,g.71,2 Touch
+Dance/Electronica,g.71,Moby
+Dance/Electronica,g.71,Martin Garrix
+Dance/Electronica,g.71,Paolo Barbato
+Dance/Electronica,g.71,Regard
+Latin,g.510,Bad Bunny
+Latin,g.510,Becky G
+Latin,g.510,Daddy Yankee
+Latin,g.510,Enrique Iglesias
+Latin,g.510,Luis Fonsi
+Latin,g.510,Shakira
+Latin,g.510,Santana
+Latin,g.510,Karol G
+Latin,g.510,J Balvin
+Latin,g.510,Don Omar
+Latin,g.510,Marc Anthony
+Latin,g.510,Selena
+Latin,g.510,Farruko
+Latin,g.510,Ricky Martin
+Latin,g.510,Vicente Fernández
+Latin,g.510,Cypress Hill
+Latin,g.510,Baby Bash
+Latin,g.510,J Balvin & Willy William
+Latin,g.510,Romeo Santos
+Latin,g.510,Maluma
+World,g.488,WizKid
+World,g.488,Israel Kamakawiwo'ole
+World,g.488,Redbone
+World,g.488,Burna Boy
+World,g.488,CKay
+World,g.488,Branko La Pallada
+World,g.488,Dnk
+World,g.488,BTS
+World,g.488,Harry Belafonte
+World,g.488,Kres
+World,g.488,Jinox Ak
+World,g.488,Rema
+World,g.488,Gipsy Kings
+World,g.488,Nature Al Listic
+World,g.488,Davido
+World,g.488,Celtic Woman
+World,g.488,Los del Rio
+World,g.488,Baha Men
+World,g.488,Umx
+World,g.488,Rocio
+Reggae,g.383,Spice
+Reggae,g.383,Bob Marley
+Reggae,g.383,Sean Paul
+Reggae,g.383,UB40
+Reggae,g.383,Shaggy
+Reggae,g.383,Bob Marley & The Wailers
+Reggae,g.383,Rihanna
+Reggae,g.383,Damian Marley
+Reggae,g.383,Sean Kingston
+Reggae,g.383,Ini Kamoze
+Reggae,g.383,Beenie Man
+Reggae,g.383,Matisyahu
+Reggae,g.383,Stick Figure
+Reggae,g.383,Rebelution
+Reggae,g.383,Jimmy Cliff
+Reggae,g.383,Buju Banton
+Reggae,g.383,Shabba Ranks
+Reggae,g.383,Wayne Wonder
+Reggae,g.383,Peter Tosh
+Reggae,g.383,Ziggy Marley
+Classical,g.21,Wolfgang Amadeus Mozart
+Classical,g.21,Johann Sebastian Bach
+Classical,g.21,Ludwig van Beethoven
+Classical,g.21,Lindsey Stirling
+Classical,g.21,Yo-Yo Ma
+Classical,g.21,Frederic Chopin
+Classical,g.21,Andrea Bocelli
+Classical,g.21,Yokuki Namishu
+Classical,g.21,Jozef Miklaus
+Classical,g.21,Claude Debussy
+Classical,g.21,Antonio Vivaldi
+Classical,g.21,Pavle Popov
+Classical,g.21,Luciano Pavarotti
+Classical,g.21,Pyotr Ilyich Tchaikovsky
+Classical,g.21,Nils Frahm
+Classical,g.21,The Piano Guys
+Classical,g.21,Isaac Shepard
+Classical,g.21,Ludovico Einaudi
+Classical,g.21,Alaya
+Classical,g.21,Blanc
+Oldies,g.4,Elvis Presley
+Oldies,g.4,The Beach Boys
+Oldies,g.4,The Rolling Stones
+Oldies,g.4,Jimi Hendrix
+Oldies,g.4,The Animals
+Oldies,g.4,Roy Orbison
+Oldies,g.4,The Monkees
+Oldies,g.4,The Hollies
+Oldies,g.4,Van Morrison
+Oldies,g.4,Chuck Berry
+Oldies,g.4,The Drifters
+Oldies,g.4,Dion
+Oldies,g.4,Tommy James and the Shondells
+Oldies,g.4,The Zombies
+Oldies,g.4,The Mamas & The Papas
+Oldies,g.4,The Turtles
+Oldies,g.4,Bobby Darin
+Oldies,g.4,Frankie Valli & The Four Seasons
+Oldies,g.4,The Rascals
+Oldies,g.4,Manfred Mann
+New Age,g.453,Enya
+New Age,g.453,For King & Country
+New Age,g.453,Enigma
+New Age,g.453,DARK STANTON
+New Age,g.453,Perplexs
+New Age,g.453,Fidelixa
+New Age,g.453,LocoBandidos
+New Age,g.453,Nikzas
+New Age,g.453,NumeraTwelve
+New Age,g.453,Normexas
+New Age,g.453,Classical Music
+New Age,g.453,Asher Meyer
+New Age,g.453,Secter
+New Age,g.453,Belicy
+New Age,g.453,Ravume
+New Age,g.453,Lexy (1)
+New Age,g.453,Belley
+New Age,g.453,Fixane
+New Age,g.453,Blinejet
+New Age,g.453,Evercorps
+Christian/Gospel,g.75,Kirk Franklin
+Christian/Gospel,g.75,MercyMe
+Christian/Gospel,g.75,Casting Crowns
+Christian/Gospel,g.75,Lauren Daigle
+Christian/Gospel,g.75,Chris Tomlin
+Christian/Gospel,g.75,Marvin Sapp
+Christian/Gospel,g.75,Hillsong UNITED
+Christian/Gospel,g.75,TobyMac
+Christian/Gospel,g.75,Elevation Worship
+Christian/Gospel,g.75,Hezekiah Walker
+Christian/Gospel,g.75,Newsboys
+Christian/Gospel,g.75,Skillet
+Christian/Gospel,g.75,Mary Mary
+Christian/Gospel,g.75,Hillsong Worship
+Christian/Gospel,g.75,Michael W. Smith
+Christian/Gospel,g.75,Jeremy Camp
+Christian/Gospel,g.75,Phil Wickham
+Christian/Gospel,g.75,Tasha Cobbs Leonard
+Christian/Gospel,g.75,Yolanda Adams
+Christian/Gospel,g.75,Zach Williams
+Blues,g.438,Stevie Ray Vaughan
+Blues,g.438,B.B. King
+Blues,g.438,Gary Clark Jr.
+Blues,g.438,Buddy Guy
+Blues,g.438,John Lee Hooker
+Blues,g.438,Muddy Waters
+Blues,g.438,Mick Simone
+Blues,g.438,Kenny Wayne Shepherd
+Blues,g.438,Diego Hez
+Blues,g.438,Blues Brothers
+Blues,g.438,Johnny Montana
+Blues,g.438,Jacob Page
+Blues,g.438,Ashton Bean
+Blues,g.438,Noriel Navas
+Blues,g.438,Mike Rohan
+Blues,g.438,Etta James
+Blues,g.438,Willie Beamen
+Blues,g.438,Jayson Sosa
+Blues,g.438,Kranuim
+Blues,g.438,Robi Matthew
+Folk,g.446,Tracy Chapman
+Folk,g.446,Simon & Garfunkel
+Folk,g.446,Mile Delija
+Folk,g.446,Bora Drljaca
+Folk,g.446,Chlöe
+Folk,g.446,Jason Isbell
+Folk,g.446,Bob Dylan
+Folk,g.446,"Peter, Paul and Mary"
+Folk,g.446,Ryan Bingham
+Folk,g.446,Ljubisa Kalas
+Folk,g.446,Robert Earl Keen
+Folk,g.446,Judah & the Lion
+Folk,g.446,Zaneta
+Folk,g.446,Whiskey Myers
+Folk,g.446,Emmylou Harris
+Folk,g.446,Morgan Wade
+Folk,g.446,Judy Collins
+Folk,g.446,Zach Bryan
+Folk,g.446,Arlo Guthrie
+Folk,g.446,Burl Ives
+Vocal/Easy Listening,g.69,Frank Sinatra
+Vocal/Easy Listening,g.69,Celine Dion
+Vocal/Easy Listening,g.69,Michael Bublé
+Vocal/Easy Listening,g.69,Dean Martin
+Vocal/Easy Listening,g.69,Elvis Presley
+Vocal/Easy Listening,g.69,Barry Manilow
+Vocal/Easy Listening,g.69,Barbra Streisand
+Vocal/Easy Listening,g.69,Frankie Valli & The Four Seasons
+Vocal/Easy Listening,g.69,Dionne Warwick
+Vocal/Easy Listening,g.69,Josh Groban
+Vocal/Easy Listening,g.69,Bing Crosby
+Vocal/Easy Listening,g.69,Carpenters
+Vocal/Easy Listening,g.69,Herb Alpert
+Vocal/Easy Listening,g.69,England Dan & John Ford Coley
+Vocal/Easy Listening,g.69,Bette Midler
+Vocal/Easy Listening,g.69,Louis Armstrong
+Vocal/Easy Listening,g.69,Tony Bennett
+Vocal/Easy Listening,g.69,Nat King Cole
+Vocal/Easy Listening,g.69,Johnny Mathis
+Vocal/Easy Listening,g.69,Eartha Kitt
+Soundtracks,g.246,Post Malone
+Soundtracks,g.246,Lady Gaga
+Soundtracks,g.246,Carolina Gaitán
+Soundtracks,g.246,"Diplo feat. Lil Pump, Juicy J, Famous Dex & French Montana"
+Soundtracks,g.246,Idina Menzel
+Soundtracks,g.246,Jessica Darrow
+Soundtracks,g.246,Stephanie Beatriz
+Soundtracks,g.246,Diane Guerrero
+Soundtracks,g.246,Olivia Newton-John
+Soundtracks,g.246,Taylor Swift
+Soundtracks,g.246,Kristen Bell
+Soundtracks,g.246,Lin-Manuel Miranda
+Soundtracks,g.246,Hans Zimmer
+Soundtracks,g.246,Sebastián Yatra
+Soundtracks,g.246,John Williams
+Soundtracks,g.246,Jonathan Groff
+Soundtracks,g.246,Aerosmith
+Soundtracks,g.246,John Legend
+Soundtracks,g.246,Original Broadway Cast of Hamilton
+Soundtracks,g.246,Germaine Franco
+Children,g.470,Disney
+Children,g.470,KIDZ BOP Kids
+Children,g.470,Pinkfong
+Children,g.470,Raffi
+Children,g.470,Jack Johnson
+Children,g.470,Lullabyte
+Children,g.470,Dj Bebu
+Children,g.470,Teddy Tales
+Children,g.470,The Rock Music Box
+Children,g.470,L'Bardo
+Children,g.470,Candy Bear
+Children,g.470,Madelaine Charlie
+Children,g.470,Elton John
+Children,g.470,Sam Smith
+Children,g.470,Trolle
+Children,g.470,The Cover Kid
+Children,g.470,CoComelon
+Children,g.470,The Kiboomers
+Children,g.470,Spongebob Squarepants
+Children,g.470,George Strait
+Comedy/Spoken Word,g.156,Weird Al Yankovic
+Comedy/Spoken Word,g.156,Bo Burnham
+Comedy/Spoken Word,g.156,The Lonely Island
+Comedy/Spoken Word,g.156,Adam Sandler
+Comedy/Spoken Word,g.156,Tenacious D
+Comedy/Spoken Word,g.156,Andrew Williams
+Comedy/Spoken Word,g.156,"Bobby ""Boris"" Pickett"
+Comedy/Spoken Word,g.156,Eddie Murphy
+Comedy/Spoken Word,g.156,Alvin Williams
+Comedy/Spoken Word,g.156,Sandra Schneider
+Comedy/Spoken Word,g.156,Keith Dent
+Comedy/Spoken Word,g.156,Jennifer Carter
+Comedy/Spoken Word,g.156,Rodney Carrington
+Comedy/Spoken Word,g.156,Dale Harris
+Comedy/Spoken Word,g.156,Doubie Marley
+Comedy/Spoken Word,g.156,Cheech and Chong
+Comedy/Spoken Word,g.156,Jan Murray
+Comedy/Spoken Word,g.156,Flight Of The Conchords
+Comedy/Spoken Word,g.156,WWE
+Comedy/Spoken Word,g.156,Christmas
+Metal,g.394,Metallica
+Metal,g.394,Def Leppard
+Metal,g.394,Linkin Park
+Metal,g.394,Rage Against The Machine
+Metal,g.394,Slipknot
+Metal,g.394,Shinedown
+Metal,g.394,Godsmack
+Metal,g.394,Incubus
+Metal,g.394,Ozzy Osbourne
+Metal,g.394,Bon Jovi
+Metal,g.394,Limp Bizkit
+Metal,g.394,Korn
+Metal,g.394,Poison
+Metal,g.394,Mötley Crüe
+Metal,g.394,Disturbed
+Metal,g.394,System of a Down
+Metal,g.394,Black Sabbath
+Metal,g.394,TOOL
+Metal,g.394,Rob Zombie
+Metal,g.394,Marilyn Manson
