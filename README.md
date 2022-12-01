@@ -10,7 +10,7 @@ Lissette Escobedo
 Tuan Huang  
 
 ## Project Description: 
-	Looking into the trends and popularity of music on the internet. Past and current music trends and commercial success of certain songs and genres can serve as significant indicators of future popularity. There are many phases in music where specific genres can be more popular than others. In these phases, the popular genres will tend to provide more song appearances in music and music popularity tracking platforms such as Napster, Spotify, and LastFM. In this project, we examine the correlation of  music genre, genre popularity, and their musical elements in  predicting  future commercial music success.
+Looking into the trends and popularity of music on the internet. Past and current music trends and commercial success of certain songs and genres can serve as significant indicators of future popularity. There are many phases in music where specific genres can be more popular than others. In these phases, the popular genres will tend to provide more song appearances in music and music popularity tracking platforms such as Napster, Spotify, and LastFM. In this project, we examine the correlation of  music genre, genre popularity, and their musical elements in  predicting  future commercial music success.
 
 ### Research Questions to Answer:
 Understand the trend of internet music over time by using scatter plots, bar charts, and multiple line graphs etc.
