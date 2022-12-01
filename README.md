@@ -31,7 +31,7 @@ Use dataframes to plot and examine trends
 Perform statistical analysis  
 Answer our research questions  
 
-# Statistical Analysis
+# Conclusion/Statistical Analysis
 
 With an interest in music we decided to answer a couple questions regarding the change of different musical elements and trends of music popularity over time. One question we wanted to answer was whether there was a correlation between musical elements and popularity. Along with that question, we wanted to know how musical elements were changing over time. Some musical elements we looked at were BPM, duration, danceability, valence, and energy. On top of all that, we also explored the genre of music that would be the most popular within a few years.  
 
@@ -40,6 +40,9 @@ A significant finding we discovered through Spotify data was that there was no c
 Moving on to the different musical elements we looked at: duration, danceability, valence, and energy. We found that the duration of songs is getting shorter as the years go on. Danceability on the other hand is increasing as the years go on. Again, this could be affected by the rise of TikTok/TikTok dances and its short duration which could compel artists to create shorter catchy songs in an attempt to go viral. The valence level of songs, however, is not changing much as the years go on.   
 
 Lastly, we looked at the top 10 songs by genre and discovered that pop dominated the charts over the past decade. However, it is worth mentioning that edm has been growing in popularity. Also, additional research into LastFM’s tag statistics shows that significantly more people use the rock tag over pop. It should be noted that LastFM is a much smaller platform than Spotify and the statistics we gathered from it only explain a small portion of a genre’s popularity. With all of this information, it can be expected that pop will continue to be popular over the decades to come.
+
+# Link to presentation
+https://docs.google.com/presentation/d/1FZrmm_oKfUI4IZfeEv3Ej2VLDVlQahqPfclt4kaYn7M/edit?usp=sharing
   
 ## Code Sources
 How to get artist URI in Spotify:
